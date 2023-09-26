@@ -1,5 +1,5 @@
 # Welcome to your first Drone project!
-
+.
 Feel free to leverage this project as your first Drone project. Can learn
 about the basics about [Drone](https://drone.io/) from the project site
 and the [project itself](https://github.com/drone/drone).
